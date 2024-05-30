@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  direction: rtl;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+#parent {
+  display: flex;
+}
+
+#TopNavBar {
+  background-color: #333;
+  /*margin-bottom: 5px;*/
+}
+
+#RightMenu {
+  margin-bottom: 120px;
+}
+
+#LeftMenu {
+  margin-bottom: 120px;
+}
+
+#MainPage {
+  padding-right: 300px;
+}
